@@ -4,5 +4,5 @@
   * Identify which customers will make a specific transaction in the future
   * No much feature engineering since original features already been PCA or transformed by provider
   * Using lgbm with optimised parameters -> LB: 0.9
-  * score:
+  * score: <br/>
   	<img src="Images/santander_scores.png">
