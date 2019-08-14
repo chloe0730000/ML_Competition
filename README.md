@@ -6,3 +6,8 @@
   * Using lgbm with optimised parameters -> LB: 0.9
   * score: <br/>
   	<img src="Images/santander_scores.png">
+
+* Tbrain - house price prediction
+  * Predict house price based on given features
+  * Using lgbm with optimised parameters -> LB: 5720.8642526724
+  * score: 162/1330 (Top 12%)
